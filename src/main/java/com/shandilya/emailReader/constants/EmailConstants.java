@@ -8,8 +8,8 @@ public class EmailConstants {
     public static final String PROTOCOL = "imaps";
 
     public static final String HOST = "smtp.gmail.com";
-    public static final String USER = "ramendu.algoexpert@gmail.com";
-    public static final String PASS = "Kabjaaoge123#";
+    public static final String USER = "your gmail Id";
+    public static final String PASS = "your password";
 
     public static final String INBOX_FOLDER = "inbox";
 }
